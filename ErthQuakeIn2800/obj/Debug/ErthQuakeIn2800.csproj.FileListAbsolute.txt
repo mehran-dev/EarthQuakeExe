@@ -1,0 +1,65 @@
+C:\Users\C# Programmer\source\repos\ErthQuakeIn2800\ErthQuakeIn2800\obj\Debug\ErthQuakeIn2800.Properties.Resources.resources
+C:\Users\C# Programmer\source\repos\ErthQuakeIn2800\ErthQuakeIn2800\obj\Debug\ErthQuakeIn2800.csproj.GenerateResource.cache
+C:\Users\C# Programmer\source\repos\ErthQuakeIn2800\ErthQuakeIn2800\obj\Debug\ErthQuakeIn2800.csproj.CoreCompileInputs.cache
+C:\Users\C# Programmer\source\repos\ErthQuakeIn2800\ErthQuakeIn2800\bin\Debug\ErthQuakeIn2800.exe.config
+C:\Users\C# Programmer\source\repos\ErthQuakeIn2800\ErthQuakeIn2800\bin\Debug\ErthQuakeIn2800.exe
+C:\Users\C# Programmer\source\repos\ErthQuakeIn2800\ErthQuakeIn2800\bin\Debug\ErthQuakeIn2800.pdb
+C:\Users\C# Programmer\source\repos\ErthQuakeIn2800\ErthQuakeIn2800\obj\Debug\ErthQuakeIn2800.csprojResolveAssemblyReference.cache
+C:\Users\C# Programmer\source\repos\ErthQuakeIn2800\ErthQuakeIn2800\obj\Debug\ErthQuakeIn2800.exe
+C:\Users\C# Programmer\source\repos\ErthQuakeIn2800\ErthQuakeIn2800\obj\Debug\ErthQuakeIn2800.pdb
+C:\Users\C# Programmer\source\repos\ErthQuakeIn2800\ErthQuakeIn2800\obj\Debug\ErthQuakeIn2800.frm1.resources
+C:\Users\C# Programmer\source\repos\ErthQuakeIn2800\ErthQuakeIn2800\obj\Debug\ErthQuakeIn2800.frm2.resources
+E:\N_C#\source\repos\ErthQuakeIn2800\ErthQuakeIn2800\bin\Debug\ErthQuakeIn2800.exe.config
+E:\N_C#\source\repos\ErthQuakeIn2800\ErthQuakeIn2800\bin\Debug\ErthQuakeIn2800.exe
+E:\N_C#\source\repos\ErthQuakeIn2800\ErthQuakeIn2800\bin\Debug\ErthQuakeIn2800.pdb
+E:\N_C#\source\repos\ErthQuakeIn2800\ErthQuakeIn2800\obj\Debug\ErthQuakeIn2800.csprojResolveAssemblyReference.cache
+E:\N_C#\source\repos\ErthQuakeIn2800\ErthQuakeIn2800\obj\Debug\ErthQuakeIn2800.frm1.resources
+E:\N_C#\source\repos\ErthQuakeIn2800\ErthQuakeIn2800\obj\Debug\ErthQuakeIn2800.frm2.resources
+E:\N_C#\source\repos\ErthQuakeIn2800\ErthQuakeIn2800\obj\Debug\ErthQuakeIn2800.Properties.Resources.resources
+E:\N_C#\source\repos\ErthQuakeIn2800\ErthQuakeIn2800\obj\Debug\ErthQuakeIn2800.csproj.GenerateResource.cache
+E:\N_C#\source\repos\ErthQuakeIn2800\ErthQuakeIn2800\obj\Debug\ErthQuakeIn2800.csproj.CoreCompileInputs.cache
+E:\N_C#\source\repos\ErthQuakeIn2800\ErthQuakeIn2800\obj\Debug\ErthQuakeIn2800.exe
+E:\N_C#\source\repos\ErthQuakeIn2800\ErthQuakeIn2800\obj\Debug\ErthQuakeIn2800.pdb
+E:\N_C#\ErthQuakeIn2800\ErthQuakeIn2800\bin\Debug\ErthQuakeIn2800.exe.config
+E:\N_C#\ErthQuakeIn2800\ErthQuakeIn2800\bin\Debug\ErthQuakeIn2800.exe
+E:\N_C#\ErthQuakeIn2800\ErthQuakeIn2800\bin\Debug\ErthQuakeIn2800.pdb
+E:\N_C#\ErthQuakeIn2800\ErthQuakeIn2800\obj\Debug\ErthQuakeIn2800.csprojResolveAssemblyReference.cache
+E:\N_C#\ErthQuakeIn2800\ErthQuakeIn2800\obj\Debug\ErthQuakeIn2800.frm1.resources
+E:\N_C#\ErthQuakeIn2800\ErthQuakeIn2800\obj\Debug\ErthQuakeIn2800.frm2.resources
+E:\N_C#\ErthQuakeIn2800\ErthQuakeIn2800\obj\Debug\ErthQuakeIn2800.Properties.Resources.resources
+E:\N_C#\ErthQuakeIn2800\ErthQuakeIn2800\obj\Debug\ErthQuakeIn2800.csproj.GenerateResource.cache
+E:\N_C#\ErthQuakeIn2800\ErthQuakeIn2800\obj\Debug\ErthQuakeIn2800.csproj.CoreCompileInputs.cache
+E:\N_C#\ErthQuakeIn2800\ErthQuakeIn2800\obj\Debug\ErthQuakeIn2800.exe
+E:\N_C#\ErthQuakeIn2800\ErthQuakeIn2800\obj\Debug\ErthQuakeIn2800.pdb
+D:\C#\MyProject\N_C#\ErthQuakeIn2800\ErthQuakeIn2800\bin\Debug\ErthQuakeIn2800.exe.config
+D:\C#\MyProject\N_C#\ErthQuakeIn2800\ErthQuakeIn2800\bin\Debug\ErthQuakeIn2800.exe
+D:\C#\MyProject\N_C#\ErthQuakeIn2800\ErthQuakeIn2800\bin\Debug\ErthQuakeIn2800.pdb
+D:\C#\MyProject\N_C#\ErthQuakeIn2800\ErthQuakeIn2800\obj\Debug\ErthQuakeIn2800.Properties.Resources.resources
+D:\C#\MyProject\N_C#\ErthQuakeIn2800\ErthQuakeIn2800\obj\Debug\ErthQuakeIn2800.csproj.GenerateResource.cache
+D:\C#\MyProject\N_C#\ErthQuakeIn2800\ErthQuakeIn2800\obj\Debug\ErthQuakeIn2800.csproj.CoreCompileInputs.cache
+D:\C#\MyProject\N_C#\ErthQuakeIn2800\ErthQuakeIn2800\obj\Debug\ErthQuakeIn2800.exe
+D:\C#\MyProject\N_C#\ErthQuakeIn2800\ErthQuakeIn2800\obj\Debug\ErthQuakeIn2800.pdb
+D:\C#\MyProject\N_C#\ErthQuakeIn2800\ErthQuakeIn2800\obj\Debug\ErthQuakeIn2800.csprojResolveAssemblyReference.cache
+D:\C#\MyProject\N_C#\ErthQuakeIn2800\ErthQuakeIn2800\obj\Debug\ErthQuakeIn2800.frmExp.resources
+D:\C#\MyProject\N_C#\ErthQuakeIn2800\ErthQuakeIn2800\obj\Debug\ErthQuakeIn2800.frmMe.resources
+D:\C#\MyProject\N_C#\ErthQuakeIn2800\ErthQuakeIn2800\obj\Debug\ErthQuakeIn2800.frmSettiung.resources
+D:\C#\MyProject\N_C#\ErthQuakeIn2800\ErthQuakeIn2800\obj\Debug\ErthQuakeIn2800.frmMain.resources
+D:\C#\MyProject\N_C#\ErthQuakeIn2800\ErthQuakeIn2800\bin\Debug\EPPlus.dll
+D:\C#\MyProject\N_C#\ErthQuakeIn2800\ErthQuakeIn2800\bin\Debug\EPPlus.xml
+D:\C#\MyProject\N_C#\ErthQuakeIn2800\ErthQuakeIn2800\obj\Debug\ErthQuakeIn2800.csproj.CopyComplete
+E:\Learning Film\C#\Lovely Program Sources\MyProject\N_C#\ErthQuakeIn2800\ErthQuakeIn2800\bin\Debug\ErthQuakeIn2800.exe.config
+E:\Learning Film\C#\Lovely Program Sources\MyProject\N_C#\ErthQuakeIn2800\ErthQuakeIn2800\bin\Debug\ErthQuakeIn2800.exe
+E:\Learning Film\C#\Lovely Program Sources\MyProject\N_C#\ErthQuakeIn2800\ErthQuakeIn2800\bin\Debug\ErthQuakeIn2800.pdb
+E:\Learning Film\C#\Lovely Program Sources\MyProject\N_C#\ErthQuakeIn2800\ErthQuakeIn2800\bin\Debug\EPPlus.dll
+E:\Learning Film\C#\Lovely Program Sources\MyProject\N_C#\ErthQuakeIn2800\ErthQuakeIn2800\bin\Debug\EPPlus.xml
+E:\Learning Film\C#\Lovely Program Sources\MyProject\N_C#\ErthQuakeIn2800\ErthQuakeIn2800\obj\Debug\ErthQuakeIn2800.csprojResolveAssemblyReference.cache
+E:\Learning Film\C#\Lovely Program Sources\MyProject\N_C#\ErthQuakeIn2800\ErthQuakeIn2800\obj\Debug\ErthQuakeIn2800.frmMain.resources
+E:\Learning Film\C#\Lovely Program Sources\MyProject\N_C#\ErthQuakeIn2800\ErthQuakeIn2800\obj\Debug\ErthQuakeIn2800.frmSettiung.resources
+E:\Learning Film\C#\Lovely Program Sources\MyProject\N_C#\ErthQuakeIn2800\ErthQuakeIn2800\obj\Debug\ErthQuakeIn2800.frmExp.resources
+E:\Learning Film\C#\Lovely Program Sources\MyProject\N_C#\ErthQuakeIn2800\ErthQuakeIn2800\obj\Debug\ErthQuakeIn2800.frmMe.resources
+E:\Learning Film\C#\Lovely Program Sources\MyProject\N_C#\ErthQuakeIn2800\ErthQuakeIn2800\obj\Debug\ErthQuakeIn2800.Properties.Resources.resources
+E:\Learning Film\C#\Lovely Program Sources\MyProject\N_C#\ErthQuakeIn2800\ErthQuakeIn2800\obj\Debug\ErthQuakeIn2800.csproj.GenerateResource.cache
+E:\Learning Film\C#\Lovely Program Sources\MyProject\N_C#\ErthQuakeIn2800\ErthQuakeIn2800\obj\Debug\ErthQuakeIn2800.csproj.CoreCompileInputs.cache
+E:\Learning Film\C#\Lovely Program Sources\MyProject\N_C#\ErthQuakeIn2800\ErthQuakeIn2800\obj\Debug\ErthQuakeIn2800.csproj.CopyComplete
+E:\Learning Film\C#\Lovely Program Sources\MyProject\N_C#\ErthQuakeIn2800\ErthQuakeIn2800\obj\Debug\ErthQuakeIn2800.exe
+E:\Learning Film\C#\Lovely Program Sources\MyProject\N_C#\ErthQuakeIn2800\ErthQuakeIn2800\obj\Debug\ErthQuakeIn2800.pdb

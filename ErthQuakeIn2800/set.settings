@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ErthQuakeIn2800" GeneratedClassName="set">
+  <Profiles />
+  <Settings>
+    <Setting Name="bgColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Desktop</Value>
+    </Setting>
+    <Setting Name="IsDarkTheme" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="btnColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Teal</Value>
+    </Setting>
+    <Setting Name="gbColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Navy</Value>
+    </Setting>
+    <Setting Name="FontColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">128, 255, 255</Value>
+    </Setting>
+    <Setting Name="AskingExDestination" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
